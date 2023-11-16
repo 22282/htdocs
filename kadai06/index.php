@@ -138,8 +138,8 @@ var_dump($str);
 echo $str[0]."<br>";
 echo $str[3]."<br>";
 
-include("index2.php");
-$s = '<script>alert("XSS");</script>';
-echo h($s);
+// include("index2.php");
+// $s = '<script>alert("XSS");</script>';
+// echo h($s);
 
 ?>
