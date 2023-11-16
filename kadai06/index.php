@@ -108,7 +108,7 @@ if($num!=10){
 } else {
     echo$num."は10と等しい";
 }
-
+ 
 $num = 1;
 if($num == 1){
     echo $num."は1と等しい";
